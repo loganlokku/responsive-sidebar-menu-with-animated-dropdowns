@@ -1,20 +1,50 @@
-# responsive-sidebar-menu-with-animated-dropdowns-
-Build a Responsive Sidebar Menu with Animated Dropdowns | HTML CSS JavaScript Project
 
-Demo
-# https://loganlokku.github.io/responsive-sidebar-menu-with-animated-dropdowns/
+---
 
-Video
-# https://www.youtube.com/watch?v=R7b3OlEyqug&ab_channel=Coding2GO
+# Responsive Sidebar Menu with Animated Dropdowns
 
-Google icons
-# https://fonts.google.com/icons
+This project showcases how to build a **Responsive Sidebar Menu** with animated dropdown functionality using **HTML**, **CSS**, and **JavaScript**.
 
-Simple icons
-# https://simpleicons.org/
+---
 
-Output
+### Demo
+🎬 [Live Demo](https://loganlokku.github.io/responsive-sidebar-menu-with-animated-dropdowns/) - Check out the live version of the project here.
 
-![alt text](images/image-2.png)
+---
 
-![alt text](images/image-3.png)
+### Video Tutorial
+📺 [Watch on YouTube](https://www.youtube.com/watch?v=R7b3OlEyqug&ab_channel=Coding2GO) - Follow this step-by-step guide to build the project.
+
+---
+
+### Resources
+
+- **Google Icons**: Utilize Google’s free icon library for the sidebar menu. 
+  ➡️ [Browse Google Icons](https://fonts.google.com/icons)
+  
+- **Simple Icons**: For additional icons or specific branding, check out Simple Icons. 
+  ➡️ [Explore Simple Icons](https://simpleicons.org/)
+
+---
+
+### Output Preview
+
+Below are preview images showing what the sidebar menu looks like:
+
+#### Sidebar with Dropdowns Expanded
+![Sidebar Expanded](images/image-2.png)
+
+#### Sidebar in Collapsed State
+![Sidebar Collapsed](images/image-3.png)
+
+---
+
+### Features
+
+- Responsive design: Works seamlessly across devices.
+- Animated dropdowns: Smooth transitions when toggling menu items.
+- Icon integration: Uses icons from **Google Icons** and **Simple Icons**.
+
+---
+
+Happy coding! 🎉
